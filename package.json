@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-scss",
-  "version": "4.0.0",
-  "description": "SCSS files (only) for Bootstrap",
+  "version": "4.1.0",
+  "description": "Bootstrap's SCSS files (only)",
   "main": "bootstrap.scss",
   "repository": {
     "type": "git",
