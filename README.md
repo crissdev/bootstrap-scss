@@ -39,8 +39,8 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.1.0`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.1.0`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.1.1`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.1.1`
 
 Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
