@@ -13,7 +13,7 @@
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
-    <a href="https://getbootstrap.com/docs/4.0/"><strong>Explore Bootstrap docs »</strong></a>
+    <a href="https://getbootstrap.com/docs/4.1/"><strong>Explore Bootstrap docs »</strong></a>
     <br>
     <br>
     <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
@@ -39,10 +39,10 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.1.1`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.1.1`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.1.2`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.1.2`
 
-Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/docs/4.1/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -72,6 +72,9 @@ bootstrap-scss/
 
 For simplicity, this project will use the same version numbers as Bootstrap.
 
+## Changelog
+
+https://blog.getbootstrap.com/2018/07/12/bootstrap-4-1-2/
 
 ## Copyright and license
 
