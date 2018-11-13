@@ -3,7 +3,7 @@
 // Set the container width, and override it for fixed navbars in media queries.
 
 @if $enable-grid-classes {
-  .container {
+  .#{$prefix}container {
     @include make-container();
     @include make-container-max-widths();
   }
@@ -15,7 +15,7 @@
 // fluid, full width layouts.
 
 @if $enable-grid-classes {
-  .container-fluid {
+  .#{$prefix}container-fluid {
     @include make-container();
   }
 }
@@ -25,17 +25,17 @@
 // Rows contain and clear the floats of your columns.
 
 @if $enable-grid-classes {
-  .row {
+  .#{$prefix}row {
     @include make-row();
   }
 
   // Remove the negative margin from default .row, then the horizontal padding
   // from all immediate children columns (to prevent runaway style inheritance).
-  .no-gutters {
+  .#{$prefix}no-gutters {
     margin-right: 0;
     margin-left: 0;
 
-    > .col,
+    > .#{$prefix}col,
     > [class*="col-"] {
       padding-right: 0;
       padding-left: 0;
