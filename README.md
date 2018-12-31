@@ -2,26 +2,27 @@
 
 > Bootstrap's SCSS files (only)
 
-
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
+    <img src="https://getbootstrap.com/docs/4.2/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
   </a>
+</p>
 
-  <h3 align="center">Bootstrap</h3>
+<h3 align="center">Bootstrap</h3>
 
-  <p align="center">
-    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-    <br>
-    <a href="https://getbootstrap.com/docs/4.1/"><strong>Explore Bootstrap docs »</strong></a>
-    <br>
-    <br>
-    <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
-    ·
-    <a href="https://jobs.getbootstrap.com/">Job Board</a>
-    ·
-    <a href="https://blog.getbootstrap.com/">Blog</a>
-  </p>
+<p align="center">
+  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  <br>
+  <a href="https://getbootstrap.com/docs/4.2/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+  ·
+  <a href="https://themes.getbootstrap.com/">Themes</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
 <br>
@@ -39,10 +40,10 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.1.3`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.1.3`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.2.1`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.2.1`
 
-Read the [Getting started page](https://getbootstrap.com/docs/4.1/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/docs/4.2/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -74,7 +75,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2018/07/24/bootstrap-4-1-3/
+https://blog.getbootstrap.com/2018/12/21/bootstrap-4-2-1/
 
 ## Copyright and license
 
