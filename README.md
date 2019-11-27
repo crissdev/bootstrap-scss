@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+    <img src="https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getbootstrap.com/docs/4.4/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
@@ -40,10 +40,10 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.3.1`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.3.1`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.4.0`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.4.0`
 
-Read the [Getting started page](https://getbootstrap.com/docs/4.3/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/docs/4.4/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -62,12 +62,13 @@ bootstrap-scss/
 │   └─ ...
 └── utilities/
     └─ ...
+└── vendor/
+    └─ ...
 ```
 
 ## Documentation
 
 [Bootstrap's official documentation](https://getbootstrap.com/) powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/).
-
 
 ## Versioning
 
@@ -75,8 +76,8 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/
+https://blog.getbootstrap.com/2019/11/26/bootstrap-4-4-0/
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE).
+Code and documentation copyright 2011-2019 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE).
