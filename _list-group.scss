@@ -24,8 +24,7 @@
   text-align: inherit; // For `<button>`s (anchors inherit)
 
   // Hover state
-  &:hover,
-  &:focus {
+  @include hover-focus() {
     z-index: 1; // Place hover/focus items above their siblings for proper border styling
     color: $list-group-action-hover-color;
     text-decoration: none;
@@ -145,13 +144,11 @@
 }
 
 
-// scss-docs-start list-group-modifiers
-// List group contextual variants
+// Contextual variants
 //
 // Add modifier classes to change text and background color on individual items.
 // Organizationally, this must come after the `:hover` states.
 
 @each $color, $value in $theme-colors {
-  @include list-group-item-variant($color, color-level($value, $list-group-item-bg-level), color-level($value, $list-group-item-color-level));
+  @include list-group-item-variant($color, theme-color-level($color, -9), theme-color-level($color, 6));
 }
-// scss-docs-end list-group-modifiers
