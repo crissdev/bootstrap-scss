@@ -40,8 +40,8 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.5.1`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.5.1`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.5.2`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.5.2`
 
 Read the [Getting started page](https://getbootstrap.com/docs/4.5/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
@@ -76,7 +76,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2020/08/04/bootstrap-4-5-1/
+https://blog.getbootstrap.com/2020/08/06/bootstrap-4-5-2/
 
 ## Copyright and license
 
