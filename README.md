@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
-  <a href="https://getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
@@ -43,7 +43,7 @@ Several quick start options are available:
 - Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss`
 - Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss`
 
-Read the [Getting started page](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -77,7 +77,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2021/06/22/bootstrap-5-0-2/
+https://blog.getbootstrap.com/2021/08/04/bootstrap-5-1-0/
 
 ## Copyright and license
 
