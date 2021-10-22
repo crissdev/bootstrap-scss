@@ -77,7 +77,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2021/09/07/bootstrap-5-1-1/
+https://blog.getbootstrap.com/2021/10/05/bootstrap-5-1-2/
 
 ## Copyright and license
 
