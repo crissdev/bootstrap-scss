@@ -77,7 +77,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2021/10/05/bootstrap-5-1-2/
+https://github.com/twbs/bootstrap/releases/tag/v5.1.3
 
 ## Copyright and license
 
