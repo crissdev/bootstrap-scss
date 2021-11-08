@@ -40,8 +40,8 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.6.0`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.6.0`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.6.1`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.6.1`
 
 Read the [Getting started page](https://getbootstrap.com/docs/4.6/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
@@ -76,8 +76,8 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://blog.getbootstrap.com/2021/01/19/bootstrap-4.6.0/
+https://blog.getbootstrap.com/2021/10/28/bootstrap-4.6.1/
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2020 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE).
+Code and documentation copyright 2011-2021 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE).
