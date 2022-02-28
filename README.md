@@ -13,7 +13,7 @@
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
-  <a href="https://getbootstrap.com/docs/4.6/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
@@ -40,10 +40,10 @@
 
 Several quick start options are available:
 
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@4.6.0`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@4.6.0`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap-scss@5.1.3`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap-scss@5.1.3`
 
-Read the [Getting started page](https://getbootstrap.com/docs/4.6/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getbootstrap.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -76,7 +76,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://github.com/twbs/bootstrap/releases/tag/v4.6.0
+https://github.com/twbs/bootstrap/releases/tag/v5.1.3
 
 ## Copyright and license
 
