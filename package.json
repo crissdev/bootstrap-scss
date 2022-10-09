@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-scss",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Bootstrap's SCSS files (only)",
   "main": "bootstrap.scss",
   "repository": {
