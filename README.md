@@ -77,7 +77,7 @@ For simplicity, this project will use the same version numbers as Bootstrap.
 
 ## Changelog
 
-https://github.com/twbs/bootstrap/releases/tag/v5.3.0
+https://github.com/twbs/bootstrap/releases/tag/v5.3.1
 
 ## Copyright and license
 
